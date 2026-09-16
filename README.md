@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
@@ -24,8 +25,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0387-first-unique-character-in-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
