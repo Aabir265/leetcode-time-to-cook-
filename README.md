@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0946-validate-stack-sequences) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0387-first-unique-character-in-a-string) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
@@ -58,4 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Sliding Window
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Prefix Sum
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
