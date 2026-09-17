@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0020-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0387-first-unique-character-in-a-string) |
 ## Bracket Sequences
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
