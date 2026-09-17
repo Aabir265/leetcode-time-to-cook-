@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0946-validate-stack-sequences) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
 |  |
@@ -15,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0946-validate-stack-sequences) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/2073-time-needed-to-buy-tickets) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0946-validate-stack-sequences) |
 ## String
 |  |
 | ------- |
