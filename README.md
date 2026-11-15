@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -76,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aabir265/leetcode-time-to-cook-/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
